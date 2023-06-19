@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deepak-Kumar-Ravichandran
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analyst Also Phyton Devaloper
 - 🌱 I’m currently learning Data Science and Analyst
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deepakkumarravichandra@gmail.com 
 - Mobile Number 9087135066
 
